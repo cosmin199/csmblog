@@ -5,7 +5,7 @@ const Header = () => {
         <div className="header">
             <div className="headerTitles">
             <span className="headerTitleSm">React & Node</span>
-            <span className="headerTitleLg">BLOG</span>
+            <span className="headerTitleLg">BLOGgg</span>
             </div>
             <img
             className="headerImg"
